@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ansar
 
-Senior programmer with +6 years of experience development website , writing reliable code , and debugging software errors
+Senior programmer with +6 years of experience development website 
 
 Currently at Saman Insurance
 
