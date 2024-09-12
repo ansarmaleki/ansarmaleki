@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Ansar
-Currently at Saman Insurance Co
+
 Senior programmer with +6 years of experience development website , writing reliable code , and debugging software errors
+
+Currently at Saman Insurance
 
 <!--
 **ansarmaleki/ansarmaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
